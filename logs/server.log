@@ -1,18 +1,26 @@
 INFO:     Will watch for changes in these directories: ['/home/workspace']
 INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
-INFO:     Started reloader process [306] using StatReload
-INFO:     Started server process [308]
+INFO:     Started reloader process [363] using StatReload
+INFO:     Started server process [365]
 INFO:     Waiting for application startup.
 INFO:     Application startup complete.
-INFO:     172.20.0.1:54948 - "HEAD / HTTP/1.1" 405 Method Not Allowed
-INFO:     172.20.0.1:54916 - "GET /categories HTTP/1.1" 200 OK
-INFO:     172.20.0.1:54926 - "GET /products HTTP/1.1" 200 OK
-INFO:     172.20.0.1:54960 - "GET /products HTTP/1.1" 200 OK
-INFO:     172.20.0.1:54970 - "GET /portfolio HTTP/1.1" 200 OK
-INFO:     172.20.0.1:54916 - "GET /categories HTTP/1.1" 200 OK
-INFO:     172.20.0.1:54926 - "GET /products HTTP/1.1" 200 OK
-INFO:     172.20.0.1:54970 - "GET /products HTTP/1.1" 200 OK
-INFO:     172.20.0.1:54960 - "GET /portfolio HTTP/1.1" 200 OK
-INFO:     172.20.0.1:54936 - "GET /portfolio HTTP/1.1" 200 OK
-INFO:     172.20.0.1:54954 - "GET /categories HTTP/1.1" 200 OK
-INFO:     172.20.0.1:54926 - "GET /portfolio HTTP/1.1" 200 OK
+INFO:     172.20.0.1:47926 - "GET /portfolio HTTP/1.1" 200 OK
+INFO:     172.20.0.1:42404 - "HEAD / HTTP/1.1" 405 Method Not Allowed
+INFO:     172.20.0.1:47926 - "GET /categories HTTP/1.1" 200 OK
+INFO:     172.20.0.1:47926 - "GET /products HTTP/1.1" 200 OK
+INFO:     172.20.0.1:47926 - "GET /products HTTP/1.1" 200 OK
+INFO:     172.20.0.1:42446 - "GET /categories HTTP/1.1" 200 OK
+INFO:     172.20.0.1:42462 - "GET /products HTTP/1.1" 200 OK
+INFO:     172.20.0.1:42430 - "GET /categories HTTP/1.1" 200 OK
+INFO:     172.20.0.1:42416 - "GET /portfolio HTTP/1.1" 200 OK
+INFO:     172.20.0.1:42446 - "GET /categories HTTP/1.1" 200 OK
+INFO:     172.20.0.1:42430 - "GET /portfolio HTTP/1.1" 200 OK
+INFO:     172.20.0.1:42462 - "GET /products HTTP/1.1" 200 OK
+INFO:     172.20.0.1:42474 - "GET /portfolio HTTP/1.1" 200 OK
+INFO:     172.20.0.1:42474 - "GET /portfolio HTTP/1.1" 200 OK
+INFO:     172.20.0.1:42462 - "GET /products HTTP/1.1" 200 OK
+INFO:     172.20.0.1:42474 - "GET /categories HTTP/1.1" 200 OK
+INFO:     172.20.0.1:42446 - "GET /portfolio HTTP/1.1" 200 OK
+INFO:     172.20.0.1:42474 - "GET /categories HTTP/1.1" 200 OK
+INFO:     172.20.0.1:42462 - "GET /products HTTP/1.1" 200 OK
+INFO:     172.20.0.1:42446 - "GET /portfolio HTTP/1.1" 200 OK
